@@ -1,0 +1,6 @@
+num <- c(10, 20, 30, 40)
+char <- c("A", "B", "C")
+logi <- c(TRUE, FALSE, TRUE)
+print(num);  print(typeof(num))
+print(char); print(typeof(char))
+print(logi); print(typeof(logi))
